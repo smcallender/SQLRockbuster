@@ -1,4 +1,4 @@
-# carrot-garage
+# SQLRockbuster
 SQL queries
 Project Overview: Rockbuster Stealth LLC is a movie rental Company that used to have stores around the world. Rockbuster Stealth is facing robust competition from streaming services such as Netflix and Amazon Prime, therefore, the Rockbuster Stealth Management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. 
 Which movies contributed the most/least to revenue gain?
