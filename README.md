@@ -9,7 +9,6 @@ Do sales figures vary between geographic regions?
 
 I utilized SQL queries to answer these key questions and provide insights from the data. 
 
-Data Source: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 Tableau Public Links
 https://public.tableau.com/app/profile/samuel.callender/viz/RevenuebyRegion_16807259490000/Sheet4?publish=yes
