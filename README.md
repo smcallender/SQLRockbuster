@@ -11,8 +11,4 @@ I utilized SQL queries to answer these key questions and provide insights from t
 
 
 Tableau Public Links
-https://public.tableau.com/app/profile/samuel.callender/viz/RevenuebyRegion_16807259490000/Sheet4?publish=yes
-https://public.tableau.com/app/profile/samuel.callender/viz/MostRevenueContributionGain/Sheet1
-https://public.tableau.com/app/profile/samuel.callender/viz/RevenueContributionLeast/Sheet1
-https://public.tableau.com/app/profile/samuel.callender/viz/RevenuebyGenre_16807056122070/Sheet1
-https://public.tableau.com/app/profile/samuel.callender/viz/Top10CountriesWithMostCustomers/Sheet2
+https://public.tableau.com/app/profile/samuel.callender
